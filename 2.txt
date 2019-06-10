@@ -1,0 +1,1 @@
+git --no-ff  禁用Fast forword
